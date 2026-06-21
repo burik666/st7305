@@ -1,0 +1,9 @@
+# Build output
+*.uf2
+*.bin
+*.elf
+*.hex
+
+# Go toolchain
+/vendor/
+go.sum
